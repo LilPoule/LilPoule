@@ -52,8 +52,8 @@ Passionné par le monde de la **cybersécurité** et l'**architecture réseau**,
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LilPoule&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilPoule&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LilPoule&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LilPoule&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 
 </div>
 
