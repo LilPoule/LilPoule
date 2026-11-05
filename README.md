@@ -52,8 +52,8 @@ Passionné par le monde de la **cybersécurité** et l'**architecture réseau**,
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LilPoule&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LilPoule&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://ghstats.dev/api/card?username=LiLPouLe&theme=midnight&size=compact" alt="GitHub Stats Card" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=LiLPouLe&theme=midnight&layout=vertical_list" alt="Top Languages" width="48%" />
 
 </div>
 
