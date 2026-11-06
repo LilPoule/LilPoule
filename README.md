@@ -52,8 +52,8 @@ Passionné par le monde de la **cybersécurité** et l'**architecture réseau**,
 
 <div align="center">
 
-  <img src="https://ghstats.dev/api/card?username=LiLPouLe&theme=midnight&size=compact" alt="GitHub Stats Card" width="48%" />
-  <img src="https://ghstats.dev/api/langs?username=LiLPouLe&theme=midnight&layout=vertical_list" alt="Top Languages" width="48%" />
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=lilpoule)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=lilpoule&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 </div>
 
